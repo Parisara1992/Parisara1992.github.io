@@ -1,0 +1,357 @@
+total 2800
+drwxr-xr-x@ 5 parisaraassawapreechaanan  staff      160 Oct 18 06:06 2.1 Heading Element
+drwxr-xr-x@ 3 parisaraassawapreechaanan  staff       96 Dec  3 11:32 2.1 Using Node
+drwxr-xr-x@ 5 parisaraassawapreechaanan  staff      160 Oct 18 06:29 2.2 Paragraph Element
+drwxr-xr-x@ 5 parisaraassawapreechaanan  staff      160 Oct 18 08:38 2.3 Void Elements
+drwxr-xr-x@ 5 parisaraassawapreechaanan  staff      160 Oct 18 08:59 2.4 Movie Ranking Project
+drwxr-xr-x@ 5 parisaraassawapreechaanan  staff      160 Oct 18 13:15 3.0 List Elements
+drwxr-xr-x@ 5 parisaraassawapreechaanan  staff      160 Oct 30 11:12 3.1 Nesting and Indentation
+drwxr-xr-x@ 5 parisaraassawapreechaanan  staff      160 Oct 30 21:34 3.2 Anchor Elements
+drwxr-xr-x@ 7 parisaraassawapreechaanan  staff      224 Oct 30 21:56 3.3 Image Elements
+drwxr-xr-x@ 5 parisaraassawapreechaanan  staff      160 Oct 30 22:12 3.4 Birthday Invite Project
+drwx------@ 5 parisaraassawapreechaanan  staff      160 Oct 31 11:07 4
+drwxr-xr-x@ 6 parisaraassawapreechaanan  staff      192 Oct 30 22:49 4.0 File Paths
+drwxr-xr-x@ 7 parisaraassawapreechaanan  staff      224 Oct 31 17:44 4.3 HTML Porfolio Project
+drwxr-xr-x@ 9 parisaraassawapreechaanan  staff      288 Nov  1 17:33 5.1. Adding CSS
+drwxr-xr-x@ 6 parisaraassawapreechaanan  staff      192 Nov  3 12:23 5.3 CSS Selectors
+drwxr-xr-x@ 8 parisaraassawapreechaanan  staff      256 Nov 15 13:56 5.4 Color Vocab Project
+drwxr-xr-x@ 7 parisaraassawapreechaanan  staff      224 Nov 15 15:41 6.0 CSS Colors
+drwxr-xr-x@ 7 parisaraassawapreechaanan  staff      224 Nov 15 16:02 6.1 Font Properties
+drwxr-xr-x@ 5 parisaraassawapreechaanan  staff      160 Nov 16 18:27 6.3 CSS Box Model
+drwxr-xr-x@ 7 parisaraassawapreechaanan  staff      224 Nov 16 19:25 6.4 Motivation Meme Project
+drwx------@ 7 parisaraassawapreechaanan  staff      224 Dec  1 13:08 Caveat
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  1430782 Nov 16 17:34 Caveat.zip
+drwxr-xr-x@ 6 parisaraassawapreechaanan  staff      192 Dec  1 09:19 DOM Challenge Starting Files
+drwxr-xr-x@ 7 parisaraassawapreechaanan  staff      224 Dec  1 13:27 Dicee Challenge - Completed
+drwxr-xr-x@ 6 parisaraassawapreechaanan  staff      192 Dec  1 13:06 Dicee Challenge - Starting Files
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff        0 Dec  3 11:50 old_permissions.txt
+
+Web Development Project//2.1 Heading Element:
+total 848
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  422242 Jan 20  2023 goal.png
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff     217 Oct 18 06:18 index.html
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff     253 Jan 20  2023 solution.html
+
+Web Development Project//2.1 Using Node:
+total 8
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  32 Dec  3 11:44 index.js
+
+Web Development Project//2.2 Paragraph Element:
+total 3664
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  1865165 Jan 24  2023 goal.png
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff     2677 Oct 26 15:40 index.html
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff     2741 Jan 24  2023 solution.html
+
+Web Development Project//2.3 Void Elements:
+total 3208
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  1632881 Jan 24  2023 goal.png
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff     2214 Oct 30 09:55 index.html
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff     2282 Jan 24  2023 solution.html
+
+Web Development Project//2.4 Movie Ranking Project:
+total 1144
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  577098 Jan 24  2023 goal.png
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff      30 Jan 25  2023 index.html
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff     360 Jan 24  2023 solution.html
+
+Web Development Project//3.0 List Elements:
+total 560
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  275484 Jan 26  2023 goal.png
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff    1259 Oct 30 11:23 index.html
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff    1298 Jan 26  2023 solution.html
+
+Web Development Project//3.1 Nesting and Indentation:
+total 112
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  48567 Jan 26  2023 goal.png
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff    745 Oct 30 21:41 index.html
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff    489 Jan 26  2023 solution.html
+
+Web Development Project//3.2 Anchor Elements:
+total 640
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  317146 Jan 27  2023 goal.png
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff     404 Oct 30 22:07 index.html
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff     797 Jan 27  2023 solution.html
+
+Web Development Project//3.3 Image Elements:
+total 4664
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  1693630 Jan 27  2023 goal1.png
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff   677428 Jan 27  2023 goal2.png
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff      142 Oct 30 22:14 index.html
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff      137 Jan 27  2023 solution1.html
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff      139 Jan 27  2023 solution2.html
+
+Web Development Project//3.4 Birthday Invite Project:
+total 3120
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  1587249 Jan 27  2023 goal.png
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff      514 Oct 30 22:47 index.html
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff      609 Jan 27  2023 solution.html
+
+Web Development Project//4:
+total 0
+drwxr-xr-x@ 8 parisaraassawapreechaanan  staff  256 Oct 31 11:07 4.1 Webpages
+drwxr-xr-x@ 8 parisaraassawapreechaanan  staff  256 Oct 31 11:07 4.3 HTML Porfolio Project
+
+Web Development Project//4/4.1 Webpages:
+total 2168
+drwxr-xr-x@ 4 parisaraassawapreechaanan  staff      128 Oct 31 11:07 assets
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  1099838 Jan 31  2023 goal.png
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff      313 Oct 31 17:51 index.html
+drwxr-xr-x@ 4 parisaraassawapreechaanan  staff      128 Oct 31 11:04 public
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff      280 Feb  1  2023 solution.html
+
+Web Development Project//4/4.1 Webpages/assets:
+total 0
+drwxr-xr-x@ 3 parisaraassawapreechaanan  staff  96 Oct 31 11:04 images
+
+Web Development Project//4/4.1 Webpages/assets/images:
+total 544
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  278331 Jan 31  2023 cat.png
+
+Web Development Project//4/4.1 Webpages/public:
+total 16
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  1605 Jan 31  2023 about.html
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff   159 Jan 31  2023 contact.html
+
+Web Development Project//4/4.3 HTML Porfolio Project:
+total 2512
+drwxr-xr-x@ 4 parisaraassawapreechaanan  staff      128 Oct 31 17:44 assets
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  1275138 Jan 31  2023 goal.png
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff      593 Feb  7  2023 index.html
+drwxr-xr-x@ 6 parisaraassawapreechaanan  staff      192 Oct 31 11:04 public
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff      664 Feb  2  2023 solution.html
+
+Web Development Project//4/4.3 HTML Porfolio Project/assets:
+total 0
+drwxr-xr-x@ 4 parisaraassawapreechaanan  staff  128 Oct 31 11:04 images
+
+Web Development Project//4/4.3 HTML Porfolio Project/assets/images:
+total 5432
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  2266076 Jan 31  2023 birthday-invite.png
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff   510795 Jan 31  2023 movie-ranking.png
+
+Web Development Project//4/4.3 HTML Porfolio Project/public:
+total 32
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  1605 Jan 31  2023 about.html
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff   609 Jan 31  2023 birthday-invite.html
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff   159 Jan 31  2023 contact.html
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff   290 Jan 31  2023 movie-ranking.html
+
+Web Development Project//4.0 File Paths:
+total 32
+drwxr-xr-x@ 7 parisaraassawapreechaanan  staff    224 Oct 30 22:36 Folder0
+drwxr-xr-x@ 4 parisaraassawapreechaanan  staff    128 Oct 30 22:36 Folder1
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  16058 Jan 30  2023 dog.png
+
+Web Development Project//4.0 File Paths/Folder0:
+total 2792
+drwxr-xr-x@ 3 parisaraassawapreechaanan  staff       96 Oct 30 22:36 Folder3
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  1390777 Jan 30  2023 goal.png
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff      282 Nov 10 12:48 index.html
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff    25738 Jan 30  2023 rabbit.png
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff      319 Feb  1  2023 solution.html
+
+Web Development Project//4.0 File Paths/Folder0/Folder3:
+total 544
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  278331 Jan 30  2023 cat.png
+
+Web Development Project//4.0 File Paths/Folder1:
+total 32
+drwxr-xr-x@ 3 parisaraassawapreechaanan  staff     96 Oct 30 22:36 Folder2
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  14745 Jan 30  2023 fish.png
+
+Web Development Project//4.0 File Paths/Folder1/Folder2:
+total 32
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  13438 Jan 30  2023 bird.png
+
+Web Development Project//4.3 HTML Porfolio Project:
+total 2512
+drwxr-xr-x@ 3 parisaraassawapreechaanan  staff       96 Oct 31 17:44 assets
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  1275138 Jan 31  2023 goal.png
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff     1247 Nov  1 17:20 index.html
+drwxr-xr-x@ 6 parisaraassawapreechaanan  staff      192 Oct 31 17:44 public
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff      664 Feb  2  2023 solution.html
+
+Web Development Project//4.3 HTML Porfolio Project/assets:
+total 0
+drwxr-xr-x@ 4 parisaraassawapreechaanan  staff  128 Oct 31 17:44 images
+
+Web Development Project//4.3 HTML Porfolio Project/assets/images:
+total 5432
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  2266076 Jan 31  2023 birthday-invite.png
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff   510795 Jan 31  2023 movie-ranking.png
+
+Web Development Project//4.3 HTML Porfolio Project/public:
+total 32
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  1605 Jan 31  2023 about.html
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff   609 Jan 31  2023 birthday-invite.html
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff   159 Jan 31  2023 contact.html
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff   290 Jan 31  2023 movie-ranking.html
+
+Web Development Project//5.1. Adding CSS:
+total 40
+drwxr-xr-x@ 7 parisaraassawapreechaanan  staff  224 Nov  1 15:36 Solution
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  194 Nov 14 09:55 external.html
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  353 Nov 14 09:34 index.html
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  180 Nov 14 09:55 inline.html
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  204 Nov 14 09:35 internal.html
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff   20 Nov 14 09:41 style.css
+
+Web Development Project//5.1. Adding CSS/Solution:
+total 40
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  200 Feb  6  2023 external.html
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  172 Feb  3  2023 inline.html
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  206 Feb  3  2023 internal.html
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  359 Feb  3  2023 solution.html
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff   23 Feb  6  2023 style.css
+
+Web Development Project//5.3 CSS Selectors:
+total 328
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  158827 Feb  7  2023 goal.png
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff    1248 Feb  7  2023 index.html
+drwxr-xr-x@ 4 parisaraassawapreechaanan  staff     128 Nov  3 12:23 solution
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff     286 Nov 15 13:08 style.css
+
+Web Development Project//5.3 CSS Selectors/solution:
+total 16
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff   721 Feb  7  2023 solution-style.css
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  1257 Feb  6  2023 solution.html
+
+Web Development Project//5.4 Color Vocab Project:
+total 2280
+drwxr-xr-x@ 3 parisaraassawapreechaanan  staff       96 Nov 14 10:52 assets
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  1157302 Feb  6  2023 goal.png
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff     1353 Feb  7  2023 index.html
+drwxr-xr-x@ 5 parisaraassawapreechaanan  staff      160 Nov 14 10:52 solution
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff      220 Nov 15 15:36 style.css
+
+Web Development Project//5.4 Color Vocab Project/assets:
+total 0
+drwxr-xr-x@ 7 parisaraassawapreechaanan  staff  224 Nov 15 13:17 images
+
+Web Development Project//5.4 Color Vocab Project/assets/images:
+total 40
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff   144 Feb  6  2023 blue.png
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff   415 Feb  6  2023 green.png
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff   815 Feb  6  2023 orange.png
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff   144 Feb  6  2023 red.png
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  3755 Feb  6  2023 yellow.png
+
+Web Development Project//5.4 Color Vocab Project/solution:
+total 16
+drwxr-xr-x@ 3 parisaraassawapreechaanan  staff   96 Nov 14 10:52 assets
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  770 Feb  6  2023 solution.html
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  220 Feb  6  2023 style.css
+
+Web Development Project//5.4 Color Vocab Project/solution/assets:
+total 0
+drwxr-xr-x@ 7 parisaraassawapreechaanan  staff  224 Nov 14 10:52 images
+
+Web Development Project//5.4 Color Vocab Project/solution/assets/images:
+total 40
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff   144 Feb  6  2023 blue.png
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff   415 Feb  6  2023 green.png
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff   815 Feb  6  2023 orange.png
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff   144 Feb  6  2023 red.png
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  3755 Feb  6  2023 yellow.png
+
+Web Development Project//6.0 CSS Colors:
+total 120
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff     59 Nov 15 16:06 antiquewhite.css
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  48258 Feb 10  2023 goal.png
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff    662 Nov 15 16:06 index.html
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff    382 Feb 10  2023 solution.html
+
+Web Development Project//6.1 Font Properties:
+total 784
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff     744 May  1  2023 font-family.html
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff     640 Feb 10  2023 font-size.html
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  384925 Feb  9  2023 goal.png
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff    1282 Nov 16 18:43 index.html
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff    1465 Feb  9  2023 solution.html
+
+Web Development Project//6.3 CSS Box Model:
+total 1928
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  978300 Feb  9  2023 goal.png
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff    2144 Nov 16 19:30 index.html
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff    1002 Nov 16 19:30 solution.html
+
+Web Development Project//6.4 Motivation Meme Project:
+total 8672
+drwxr-xr-x@ 3 parisaraassawapreechaanan  staff       96 Nov 16 19:25 assets
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  4429522 Feb  9  2023 goal.png
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff     1327 Nov 29 16:15 index.html
+drwxr-xr-x@ 5 parisaraassawapreechaanan  staff      160 Nov 16 19:25 solution
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff       37 Nov 29 16:15 style.css
+
+Web Development Project//6.4 Motivation Meme Project/assets:
+total 0
+drwxr-xr-x@ 3 parisaraassawapreechaanan  staff  96 Nov 16 19:25 images
+
+Web Development Project//6.4 Motivation Meme Project/assets/images:
+total 400
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  202196 Feb 14  2023 daenerys.jpeg
+
+Web Development Project//6.4 Motivation Meme Project/solution:
+total 16
+drwxr-xr-x@ 3 parisaraassawapreechaanan  staff   96 Nov 16 19:25 assets
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  303 Feb  9  2023 solution.css
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  644 Feb  9  2023 solution.html
+
+Web Development Project//6.4 Motivation Meme Project/solution/assets:
+total 0
+drwxr-xr-x@ 3 parisaraassawapreechaanan  staff  96 Nov 16 19:25 images
+
+Web Development Project//6.4 Motivation Meme Project/solution/assets/images:
+total 400
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  202196 Feb 14  2023 daenerys.jpeg
+
+Web Development Project//Caveat:
+total 792
+-rw-rw-r--@ 1 parisaraassawapreechaanan  staff  393092 Sep 15 05:27 Caveat-VariableFont_wght.ttf
+-rw-rw-r--@ 1 parisaraassawapreechaanan  staff    4478 Nov 16 17:34 OFL.txt
+-rw-rw-r--@ 1 parisaraassawapreechaanan  staff    2118 Nov 16 17:34 README.txt
+drwxr-xr-x@ 6 parisaraassawapreechaanan  staff     192 Nov 16 18:00 static
+
+Web Development Project//Caveat/static:
+total 2016
+-rw-rw-r--@ 1 parisaraassawapreechaanan  staff  257364 Sep 15 05:27 Caveat-Bold.ttf
+-rw-rw-r--@ 1 parisaraassawapreechaanan  staff  257884 Sep 15 05:27 Caveat-Medium.ttf
+-rw-rw-r--@ 1 parisaraassawapreechaanan  staff  257016 Sep 15 05:27 Caveat-Regular.ttf
+-rw-rw-r--@ 1 parisaraassawapreechaanan  staff  257968 Sep 15 05:27 Caveat-SemiBold.ttf
+
+Web Development Project//DOM Challenge Starting Files:
+total 24
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  479 Dec  4  2018 index.html
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff   15 Nov  2  2018 index.js
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff   21 Nov  2  2018 styles.css
+
+Web Development Project//Dicee Challenge - Completed:
+total 24
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  710 Apr 28  2018 dicee.html
+drwxr-xr-x@ 8 parisaraassawapreechaanan  staff  256 Dec  1 13:27 images
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  829 Apr 28  2018 index.js
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  509 Apr 28  2018 styles.css
+
+Web Development Project//Dicee Challenge - Completed/images:
+total 48
+-rwxr-xr-x@ 1 parisaraassawapreechaanan  staff  2557 Aug 25  2015 dice1.png
+-rwxr-xr-x@ 1 parisaraassawapreechaanan  staff  2213 Aug 25  2015 dice2.png
+-rwxr-xr-x@ 1 parisaraassawapreechaanan  staff  2435 Aug 25  2015 dice3.png
+-rwxr-xr-x@ 1 parisaraassawapreechaanan  staff  2616 Aug 25  2015 dice4.png
+-rwxr-xr-x@ 1 parisaraassawapreechaanan  staff  2824 Aug 25  2015 dice5.png
+-rwxr-xr-x@ 1 parisaraassawapreechaanan  staff  2984 Aug 25  2015 dice6.png
+
+Web Development Project//Dicee Challenge - Starting Files:
+total 16
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  605 Nov  3  2018 dicee.html
+drwxr-xr-x@ 8 parisaraassawapreechaanan  staff  256 Dec  1 13:06 images
+-rw-r--r--@ 1 parisaraassawapreechaanan  staff  509 Apr 27  2018 styles.css
+
+Web Development Project//Dicee Challenge - Starting Files/images:
+total 48
+-rwxr-xr-x@ 1 parisaraassawapreechaanan  staff  2557 Aug 25  2015 dice1.png
+-rwxr-xr-x@ 1 parisaraassawapreechaanan  staff  2213 Aug 25  2015 dice2.png
+-rwxr-xr-x@ 1 parisaraassawapreechaanan  staff  2435 Aug 25  2015 dice3.png
+-rwxr-xr-x@ 1 parisaraassawapreechaanan  staff  2616 Aug 25  2015 dice4.png
+-rwxr-xr-x@ 1 parisaraassawapreechaanan  staff  2824 Aug 25  2015 dice5.png
+-rwxr-xr-x@ 1 parisaraassawapreechaanan  staff  2984 Aug 25  2015 dice6.png
